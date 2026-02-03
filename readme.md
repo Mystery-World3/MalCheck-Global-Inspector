@@ -37,6 +37,9 @@
    ```bash
    API_KEY = 'YOUR_VIRUSTOTAL_API_KEY'
    ```
+   
+---
+
 ## 📖 Cara Penggunaan
 
 ### Mengecek URL/Website:
