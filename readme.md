@@ -1,7 +1,6 @@
 # 🛡️ VTReps-Inspector: Malware & URL Reputation Scanner
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OSINT](https://img.shields.io/badge/Main%20Topic-OSINT-red.svg)]()
 
 **VTReps-Inspector** adalah alat berbasis CLI (Command Line Interface) yang dirancang untuk melakukan inspeksi keamanan cepat terhadap file dan tautan web. Dengan memanfaatkan **VirusTotal API v3**, tool ini memberikan laporan reputasi *real-time* untuk membantu mendeteksi ancaman siber sebelum berinteraksi dengan data yang mencurigakan.
