@@ -57,8 +57,8 @@ python main.py -f "C:\Path\File\Aplication.exe"
 
 ---
 
-## 👨‍💻 Tentang Pengembang
-
+## 👤 Author
 **Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University*
+<br>
+ Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
 
----
