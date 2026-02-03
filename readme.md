@@ -41,7 +41,7 @@
 
 ### Mengecek URL/Website:
 ```bash
-python main.py -u [https://www.contoh-website.com](https://www.contoh-website.com)
+python main.py -u (https://www.contoh-website.com)
 ```
 
 ### Mengecek SHA256 Hash:
