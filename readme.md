@@ -14,13 +14,51 @@
 - **Fast Response**: Menampilkan statistik analisis (Malicious, Harmless, Suspicious) secara instan.
 - **Lightweight**: Tanpa GUI yang berat, fokus pada kecepatan eksekusi di terminal.
 
+---
+
 ## 🛠️ Persyaratan Sistem
 - Python 3.8 atau versi lebih baru.
 - API Key VirusTotal (Gratis tersedia di [VirusTotal Intelligence](https://www.virustotal.com/)).
+
+---
 
 ## 📦 Instalasi
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/Mystery-World3/VTReps-Inspector.git](https://github.com/Mystery-World3/VTReps-Inspector.git)
-   cd VTReps-Inspector
+   git clone https://github.com/Mystery-World3/MalCheck-Global-Inspector.git
+   cd MalCheck-Global-Inspector
+   ```
+   
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. **Konfigurasi API: Buka main.py dan masukkan API Key kamu pada variabel:**
+   ```bash
+   API_KEY = 'YOUR_VIRUSTOTAL_API_KEY'
+   ```
+## 📖 Cara Penggunaan
+
+### Mengecek URL/Website:
+```bash
+python main.py -u [https://www.contoh-website.com](https://www.contoh-website.com)
+```
+
+### Mengecek SHA256 Hash:
+```bash
+python main.py -s 138386647253504f762a0487d602a8cf23e20ecf89f9215886d9a1050e891392
+```
+
+### Mengecek File Lokal:
+```bash
+python main.py -f "C:\Path\File\Aplication.exe"
+```
+
+---
+
+## 👨‍💻 Tentang Pengembang
+
+**Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University*
+
+---
